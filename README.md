@@ -14,7 +14,7 @@ Las 4 imágenes OVA exportadas están disponibles en el siguiente directorio:
 
 🔗 (https://drive.google.com/drive/folders/1wvd4xKzsR0Kd6sji58K4bfQM720C5fKv?usp=drive_link)
 
-Esto se debe a que no se permiten ficheros con un tamaño superior a 25M.
+Esto se debe a que en GitHub solo se permiten ficheros con un tamaño inferior a 25MB.
 
 ## Casos de uso incluidos
 
