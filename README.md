@@ -14,13 +14,6 @@ Las 4 imágenes OVA exportadas están disponibles en el siguiente directorio:
 
 🔗 (https://drive.google.com/drive/folders/1wvd4xKzsR0Kd6sji58K4bfQM720C5fKv?usp=drive_link)
 
-## Configuraciones clave
-
-- Red: modo NAT + Red Interna (`labnet`)
-- Netplan: configuración manual de IPs
-- Docker: ajuste del `timeout` en `docker-compose.yml`
-- Greeter XFCE4 corregido
-
 ## Casos de uso incluidos
 
 - Lectura/escritura Modbus desde SCADA
