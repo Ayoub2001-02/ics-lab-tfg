@@ -16,7 +16,7 @@ Las 4 imágenes OVA exportadas están disponibles en el siguiente directorio:
 
 Esto se debe a que en GitHub solo se permiten ficheros con un tamaño inferior a 25MB.
 
-## Casos de uso incluidos
+## Algunos casos de uso del proyecto
 
 - Lectura/escritura Modbus desde SCADA
 - Simulación de sensores
